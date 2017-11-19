@@ -1,22 +1,16 @@
-# Desafios IDwall
+#DESAFIO POR DIEGO DIAS
 
-Aqui estão os desafios para a primeira fase de testes de candidatos da IDwall.  
-Escolha em qual linguagem irá implementar (a não ser que um de nossos colaboradores lhe instrua a utilizar uma linguagem específica).  
+```````
 
-Não há diferença de testes para diferentes níveis de profissionais, porém o teste será avaliado com diferentes critérios, dependendo do perfil da vaga.
+ESTE FORK CONTEM O DESAFIO DO CANDIDATO DIEGO DIAS
 
-1. [Manipulação de strings](https://github.com/idwall/desafios/tree/master/strings)
-2. [Crawlers](https://github.com/idwall/desafios/tree/master/crawlers)
+```````
+##PARA RODAR O DESAFIO DE STRINGS, ACESSAR A PASTA 
 
-## Como entregar estes desafios
-Você deve forkar este projeto e fazer o *push* no seu próprio repositório e enviar o link para _jobs@idwall.co_ ou para o email do recrutador, junto com seu LinkedIn atualizado.  
+```````
 
-A implementação deve ficar na pasta correspondente ao desafio. Fique à vontade para adicionar qualquer tipo de conteúdo que julgue útil ao projeto, alterar/acrescentar um README com instruções de como executá-lo, etc.
+strings/code
 
-**Obs.:** Você não deve fazer um Pull Request para este projeto! 
+```````
 
-## Carreira IDwall
-
-Caso queira mais detalhes de como trabalhamos, quais são nossos valores e ideais, confira a página [Carreira IDwall](https://idwall.co/carreira) e mesmo que seu perfil não esteja listado nas vagas em aberto, lhe encorajamos a mandar seu CV! Valorizamos bons profissionais sempre e gostamos de manter contato com gente boa.
-
-Boas implementações! 🎉
+#E RODAR O COMANDO NODE STRINGS.JS
